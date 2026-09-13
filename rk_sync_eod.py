@@ -9,11 +9,15 @@ import requests
 
 IST = ZoneInfo("Asia/Kolkata")
 OUTPUT_FILE = "eod_prices.json"
-AMFI_LOCAL_FILE = "amfi_nav.txt"
+
+AMFI_URLS = [
+    "https://portal.amfiindia.com/spages/NAVAll.txt",
+    "https://www.amfiindia.com/spages/NAVAll.txt"
+]
 
 HTTP_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-    "Accept": "*/*"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,text/plain,*/*"
 }
 
 def load_existing_data():
@@ -25,38 +29,57 @@ def load_existing_data():
             return {}
     return {}
 
-def parse_local_amfi():
+def fetch_amfi_nav():
     records = {}
-    if not os.path.exists(AMFI_LOCAL_FILE):
-        print("[AMFI] Local file not found.")
+    content = None
+
+    # 1. Read local file if downloaded via curl in GitHub workflow
+    if os.path.exists("amfi_nav.txt") and os.path.getsize("amfi_nav.txt") > 5000:
+        with open("amfi_nav.txt", "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
+
+    # 2. Otherwise download directly
+    if not content:
+        for url in AMFI_URLS:
+            try:
+                resp = requests.get(url, headers=HTTP_HEADERS, timeout=25)
+                if resp.status_code == 200 and "Net Asset Value" in resp.text:
+                    content = resp.text
+                    break
+            except Exception:
+                continue
+
+    if not content:
+        print("[AMFI] Error: Unable to retrieve AMFI data feed.")
         return records
 
-    with open(AMFI_LOCAL_FILE, "r", encoding="utf-8", errors="ignore") as f:
-        for line in f:
-            parts = line.split(";")
-            # Format: Scheme Code;ISIN Growth;ISIN Reinv;Scheme Name;NAV;Date
-            if len(parts) >= 6:
-                growth_isin = parts[1].strip()
-                reinv_isin = parts[2].strip()
-                name = parts[3].strip()
+    # 3. Parse lines using negative indexing for column flexibility
+    for line in content.splitlines():
+        parts = line.split(";")
+        if len(parts) >= 6:
+            growth_isin = parts[1].strip()
+            reinv_isin = parts[2].strip()
+            name = parts[3].strip()
 
-                try:
-                    nav = float(parts[4].strip())
-                except ValueError:
-                    continue
+            # Date is always the last column; NAV is always second to last
+            nav_str = parts[-2].strip()
+            date = parts[-1].strip()
 
-                date = parts[5].strip()
+            try:
+                nav = float(nav_str)
+            except ValueError:
+                continue  # Skips header row or empty entries
 
-                for isin in (growth_isin, reinv_isin):
-                    if len(isin) == 12 and isin.startswith("INF"):
-                        records[isin] = {
-                            "type": "MUTUAL_FUND",
-                            "name": name,
-                            "price": nav,
-                            "date": date
-                        }
+            for isin in (growth_isin, reinv_isin):
+                if len(isin) == 12 and isin.startswith("INF"):
+                    records[isin] = {
+                        "type": "MUTUAL_FUND",
+                        "name": name,
+                        "price": nav,
+                        "date": date
+                    }
 
-    print(f"[AMFI] Parsed {len(records)} mutual fund ISINs.")
+    print(f"[AMFI] Successfully ingested {len(records)} mutual fund ISINs.")
     return records
 
 def fetch_nse_bhavcopy(days_lookback=5):
@@ -79,6 +102,7 @@ def fetch_nse_bhavcopy(days_lookback=5):
                             clean_row = {k.strip(): v.strip() for k, v in row.items() if k}
                             isin = clean_row.get("ISIN", "")
                             cls_pric = clean_row.get("ClsPric", "")
+
                             if len(isin) == 12 and cls_pric:
                                 try:
                                     records[isin] = {
@@ -90,7 +114,7 @@ def fetch_nse_bhavcopy(days_lookback=5):
                                 except ValueError:
                                     continue
                 if records:
-                    print(f"[NSE] Parsed {len(records)} stock ISINs for {target_date}.")
+                    print(f"[NSE] Successfully parsed {len(records)} stock ISINs for {target_date}.")
                     break
         except Exception:
             continue
@@ -100,11 +124,11 @@ def fetch_nse_bhavcopy(days_lookback=5):
 def main():
     combined = load_existing_data()
 
-    # 1. Parse AMFI Mutual Funds from local curl file
-    mf_data = parse_local_amfi()
+    # Ingest Mutual Funds
+    mf_data = fetch_amfi_nav()
     combined.update(mf_data)
 
-    # 2. Parse NSE Stocks from archives
+    # Ingest Stocks
     stock_data = fetch_nse_bhavcopy()
     combined.update(stock_data)
 
