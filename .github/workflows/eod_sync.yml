@@ -2,7 +2,7 @@ name: Daily EOD Price Sync
 
 on:
   schedule:
-    # 18:15 UTC is 11:45 PM IST
+    # 18:15 UTC = 11:45 PM IST
     - cron: '15 18 * * *'
   workflow_dispatch:
 
@@ -23,6 +23,13 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+
+      - name: Download AMFI NAV feed via curl
+        run: |
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+            -H "Accept: text/plain, */*" \
+            "https://www.amfiindia.com/spages/NAVAll.txt" -o amfi_nav.txt
+          echo "AMFI file size: $(wc -c < amfi_nav.txt) bytes"
 
       - name: Run sync script
         run: python rk_sync_eod.py
