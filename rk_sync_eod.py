@@ -9,6 +9,7 @@ import requests
 
 IST = ZoneInfo("Asia/Kolkata")
 OUTPUT_FILE = "eod_prices.json"
+AMFI_LOCAL_FILE = "amfi_nav.txt"
 
 AMFI_URLS = [
     "https://portal.amfiindia.com/spages/NAVAll.txt",
@@ -17,10 +18,13 @@ AMFI_URLS = [
 
 HTTP_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "text/html,text/plain,*/*"
+    "Accept": "text/html,text/plain,*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://www.amfiindia.com/net-asset-value/nav-history"
 }
 
 def load_existing_data():
+    """Preserves existing records in case a market holiday or timeout occurs."""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -33,44 +37,64 @@ def fetch_amfi_nav():
     records = {}
     content = None
 
-    # 1. Read local file if downloaded via curl in GitHub workflow
-    if os.path.exists("amfi_nav.txt") and os.path.getsize("amfi_nav.txt") > 5000:
-        with open("amfi_nav.txt", "r", encoding="utf-8", errors="ignore") as f:
+    # 1. Read local file if downloaded via curl in GitHub Actions
+    if os.path.exists(AMFI_LOCAL_FILE) and os.path.getsize(AMFI_LOCAL_FILE) > 5000:
+        with open(AMFI_LOCAL_FILE, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
 
-    # 2. Otherwise download directly
+    # 2. Fallback: Download directly if curl step didn't run
     if not content:
+        session = requests.Session()
+        session.headers.update(HTTP_HEADERS)
         for url in AMFI_URLS:
             try:
-                resp = requests.get(url, headers=HTTP_HEADERS, timeout=25)
+                resp = session.get(url, timeout=30)
                 if resp.status_code == 200 and "Net Asset Value" in resp.text:
                     content = resp.text
                     break
-            except Exception:
-                continue
+            except Exception as e:
+                print(f"[AMFI] Request failed for {url}: {e}")
 
     if not content:
-        print("[AMFI] Error: Unable to retrieve AMFI data feed.")
+        print("[AMFI] Error: No content retrieved.")
         return records
 
-    # 3. Parse lines using negative indexing for column flexibility
+    # 3. Parse lines dynamically
     for line in content.splitlines():
-        parts = line.split(";")
-        if len(parts) >= 6:
-            growth_isin = parts[1].strip()
-            reinv_isin = parts[2].strip()
-            name = parts[3].strip()
+        line = line.strip()
+        if not line or ";" not in line:
+            continue
 
-            # Date is always the last column; NAV is always second to last
-            nav_str = parts[-2].strip()
-            date = parts[-1].strip()
+        parts = [p.strip() for p in line.split(";")]
+        
+        # Remove trailing empty columns if lines end with a semicolon
+        while parts and parts[-1] == "":
+            parts.pop()
 
+        if len(parts) < 5:
+            continue
+
+        # Date is always the final column
+        date = parts[-1]
+
+        # Scan backwards to locate the NAV float
+        nav = None
+        for col in reversed(parts[:-1]):
             try:
-                nav = float(nav_str)
+                nav = float(col)
+                break
             except ValueError:
-                continue  # Skips header row or empty entries
+                continue
 
-            for isin in (growth_isin, reinv_isin):
+        if nav is None:
+            continue
+
+        name = parts[3] if len(parts) > 3 else ""
+
+        # Map both Growth (slot 1) and Reinvestment (slot 2) ISINs
+        for col_idx in (1, 2):
+            if len(parts) > col_idx:
+                isin = parts[col_idx].upper()
                 if len(isin) == 12 and isin.startswith("INF"):
                     records[isin] = {
                         "type": "MUTUAL_FUND",
@@ -85,6 +109,8 @@ def fetch_amfi_nav():
 def fetch_nse_bhavcopy(days_lookback=5):
     records = {}
     today = datetime.now(IST).date()
+    session = requests.Session()
+    session.headers.update(HTTP_HEADERS)
 
     for i in range(days_lookback):
         target_date = today - timedelta(days=i)
@@ -92,7 +118,7 @@ def fetch_nse_bhavcopy(days_lookback=5):
         url = f"https://nsearchives.nseindia.com/content/cm/BhavCopy_NSE_CM_0_0_0_{date_str}_F_0000.csv.zip"
 
         try:
-            resp = requests.get(url, headers=HTTP_HEADERS, timeout=20)
+            resp = session.get(url, timeout=20)
             if resp.status_code == 200:
                 with zipfile.ZipFile(io.BytesIO(resp.content)) as z:
                     csv_name = z.namelist()[0]
@@ -100,7 +126,7 @@ def fetch_nse_bhavcopy(days_lookback=5):
                         reader = csv.DictReader(io.TextIOWrapper(f, encoding="utf-8"))
                         for row in reader:
                             clean_row = {k.strip(): v.strip() for k, v in row.items() if k}
-                            isin = clean_row.get("ISIN", "")
+                            isin = clean_row.get("ISIN", "").upper()
                             cls_pric = clean_row.get("ClsPric", "")
 
                             if len(isin) == 12 and cls_pric:
@@ -138,8 +164,9 @@ def main():
         "data": combined
     }
 
+    # indent=2 formats each ISIN on its own line for reliable searching
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, separators=(",", ":"))
+        json.dump(output, f, indent=2)
 
     print(f"[SUCCESS] Exported {len(combined)} total instruments to {OUTPUT_FILE}")
 
