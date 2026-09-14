@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:55:23.326682+05:30",
+  "updated_at": "2026-09-14T23:58:13.509090+05:30",
   "total_instruments": 23641,
   "data": {
     "IN0020200104": {
@@ -27659,86 +27659,86 @@
     "INF200K01UR8": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1450.5778,
-      "date": "13-Sep-2026"
+      "price": 1450.7949,
+      "date": "14-Sep-2026"
     },
     "INF200K01US6": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1450.5778,
-      "date": "13-Sep-2026"
+      "price": 1450.7949,
+      "date": "14-Sep-2026"
     },
     "INF200K01UQ0": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1144.3908,
-      "date": "13-Sep-2026"
+      "price": 1144.0484,
+      "date": "14-Sep-2026"
     },
     "INF200K01UU2": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1385.9119,
-      "date": "13-Sep-2026"
+      "price": 1386.1192,
+      "date": "14-Sep-2026"
     },
     "INF200K01UV0": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1385.9119,
-      "date": "13-Sep-2026"
+      "price": 1386.1192,
+      "date": "14-Sep-2026"
     },
     "INF200K01UT4": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 4442.127,
-      "date": "13-Sep-2026"
+      "price": 4442.7917,
+      "date": "14-Sep-2026"
     },
     "INF200K01LU1": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 4433.3996,
-      "date": "13-Sep-2026"
+      "price": 4434.0457,
+      "date": "14-Sep-2026"
     },
     "INF200K01LR7": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1424.2929,
-      "date": "13-Sep-2026"
+      "price": 1424.5005,
+      "date": "14-Sep-2026"
     },
     "INF200K01LX5": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1141.0717,
-      "date": "13-Sep-2026"
+      "price": 1140.7391,
+      "date": "14-Sep-2026"
     },
     "INF200K01LY3": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1441.3325,
-      "date": "13-Sep-2026"
+      "price": 1441.5426,
+      "date": "14-Sep-2026"
     },
     "INF200K01LZ0": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1441.3325,
-      "date": "13-Sep-2026"
+      "price": 1441.5426,
+      "date": "14-Sep-2026"
     },
     "INF200K01MB9": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1379.0078,
-      "date": "13-Sep-2026"
+      "price": 1379.2088,
+      "date": "14-Sep-2026"
     },
     "INF200K01MC7": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1379.0078,
-      "date": "13-Sep-2026"
+      "price": 1379.2088,
+      "date": "14-Sep-2026"
     },
     "INF200K01MA1": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 4391.8787,
-      "date": "13-Sep-2026"
+      "price": 4392.5188,
+      "date": "14-Sep-2026"
     },
     "INF903JA1JK3": {
       "type": "MUTUAL_FUND",
@@ -31271,50 +31271,50 @@
     "INF200K01TJ7": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1390.8349,
-      "date": "13-Sep-2026"
+      "price": 1391.0141,
+      "date": "14-Sep-2026"
     },
     "INF200K01TK5": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 4480.9525,
-      "date": "13-Sep-2026"
+      "price": 4481.5298,
+      "date": "14-Sep-2026"
     },
     "INF200K01TL3": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1420.239,
-      "date": "13-Sep-2026"
+      "price": 1420.4219,
+      "date": "14-Sep-2026"
     },
     "INF200K01TM1": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1420.239,
-      "date": "13-Sep-2026"
+      "price": 1420.4219,
+      "date": "14-Sep-2026"
     },
     "INF200K01LN6": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1384.2887,
-      "date": "13-Sep-2026"
+      "price": 1384.4652,
+      "date": "14-Sep-2026"
     },
     "INF200K01LQ9": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 4419.8515,
-      "date": "13-Sep-2026"
+      "price": 4420.4152,
+      "date": "14-Sep-2026"
     },
     "INF200K01LO4": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1413.4525,
-      "date": "13-Sep-2026"
+      "price": 1413.6328,
+      "date": "14-Sep-2026"
     },
     "INF200K01LP1": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1413.4525,
-      "date": "13-Sep-2026"
+      "price": 1413.6328,
+      "date": "14-Sep-2026"
     },
     "INF903JA1HJ9": {
       "type": "MUTUAL_FUND",
