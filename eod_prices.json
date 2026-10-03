@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:00:50.887448+05:30",
+  "updated_at": "2026-10-04T03:52:17.153065+05:30",
   "total_instruments": 25568,
   "data": {
     "IN0020200104": {
@@ -25703,44 +25703,44 @@
     "INF209K01RU9": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 454.2899,
-      "date": "01-Oct-2026"
+      "price": 454.5123,
+      "date": "04-Oct-2026"
     },
     "INF209K01VA3": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 460.5501,
-      "date": "01-Oct-2026"
+      "price": 460.7809,
+      "date": "04-Oct-2026"
     },
     "INF209K01KQ2": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
       "price": 100.195,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF209K01SQ5": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
       "price": 100.195,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF209K01UZ2": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
       "price": 100.195,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF209K01VD7": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 138.5074,
-      "date": "01-Oct-2026"
+      "price": 138.5768,
+      "date": "04-Oct-2026"
     },
     "INF209K01VC9": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 100.3504,
-      "date": "01-Oct-2026"
+      "price": 100.4007,
+      "date": "04-Oct-2026"
     },
     "INF209K01KN9": {
       "type": "MUTUAL_FUND",
@@ -25763,8 +25763,8 @@
     "INF209KA1LI1": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 105.3195,
-      "date": "01-Oct-2026"
+      "price": 105.371,
+      "date": "04-Oct-2026"
     },
     "INF209K01KP4": {
       "type": "MUTUAL_FUND",
@@ -25775,14 +25775,14 @@
     "INF209K01KU4": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 100.3481,
-      "date": "01-Oct-2026"
+      "price": 100.3972,
+      "date": "04-Oct-2026"
     },
     "INF209KA1LJ9": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Liquid Fund",
-      "price": 100.3481,
-      "date": "01-Oct-2026"
+      "price": 100.3972,
+      "date": "04-Oct-2026"
     },
     "INF0QA701029": {
       "type": "MUTUAL_FUND",
@@ -26153,290 +26153,290 @@
     "INF226401034": {
       "type": "MUTUAL_FUND",
       "name": "Capitalmind Liquid Fund",
-      "price": 1056.6736,
-      "date": "02-Oct-2026"
+      "price": 1057.0172,
+      "date": "04-Oct-2026"
     },
     "INF226401042": {
       "type": "MUTUAL_FUND",
       "name": "Capitalmind Liquid Fund",
-      "price": 1054.8829,
-      "date": "02-Oct-2026"
+      "price": 1055.2145,
+      "date": "04-Oct-2026"
     },
     "INF754K01GY9": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2143.6168,
-      "date": "01-Oct-2026"
+      "price": 2144.6804,
+      "date": "04-Oct-2026"
     },
     "INF754K01GM4": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3684.5801,
-      "date": "01-Oct-2026"
+      "price": 3686.4082,
+      "date": "04-Oct-2026"
     },
     "INF754K01GO0": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3532.8289,
-      "date": "01-Oct-2026"
+      "price": 3534.5817,
+      "date": "04-Oct-2026"
     },
     "INF754K01GN2": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3532.8289,
-      "date": "01-Oct-2026"
+      "price": 3534.5817,
+      "date": "04-Oct-2026"
     },
     "INF754K01GX1": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3532.788,
-      "date": "01-Oct-2026"
+      "price": 3534.5408,
+      "date": "04-Oct-2026"
     },
     "INF754K01GT9": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3532.788,
-      "date": "01-Oct-2026"
+      "price": 3534.5408,
+      "date": "04-Oct-2026"
     },
     "INF754K01GP7": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
       "price": 1194.2802,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF754K01GV5": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2474.9567,
-      "date": "01-Oct-2026"
+      "price": 2476.1847,
+      "date": "04-Oct-2026"
     },
     "INF754K01GR3": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2474.9567,
-      "date": "01-Oct-2026"
+      "price": 2476.1847,
+      "date": "04-Oct-2026"
     },
     "INF754K01GW3": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1005.5374,
-      "date": "01-Oct-2026"
+      "price": 1006.0363,
+      "date": "04-Oct-2026"
     },
     "INF754K01GS1": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1005.5374,
-      "date": "01-Oct-2026"
+      "price": 1006.0363,
+      "date": "04-Oct-2026"
     },
     "INF754K01GU7": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2174.4343,
-      "date": "01-Oct-2026"
+      "price": 2175.5131,
+      "date": "04-Oct-2026"
     },
     "INF754K01GQ5": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2174.4343,
-      "date": "01-Oct-2026"
+      "price": 2175.5131,
+      "date": "04-Oct-2026"
     },
     "INF754K01HR1": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2101.1087,
-      "date": "01-Oct-2026"
+      "price": 2102.1392,
+      "date": "04-Oct-2026"
     },
     "INF754K01GZ6": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3606.8085,
-      "date": "01-Oct-2026"
+      "price": 3608.5756,
+      "date": "04-Oct-2026"
     },
     "INF754K01GK8": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3455.0694,
-      "date": "01-Oct-2026"
+      "price": 3456.7621,
+      "date": "04-Oct-2026"
     },
     "INF754K01GL6": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3455.0694,
-      "date": "01-Oct-2026"
+      "price": 3456.7621,
+      "date": "04-Oct-2026"
     },
     "INF754K01HQ3": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2343.8558,
-      "date": "01-Oct-2026"
+      "price": 2345.0042,
+      "date": "04-Oct-2026"
     },
     "INF754K01HP5": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2343.8558,
-      "date": "01-Oct-2026"
+      "price": 2345.0042,
+      "date": "04-Oct-2026"
     },
     "INF754K01HA7": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1335.4977,
-      "date": "01-Oct-2026"
+      "price": 1336.152,
+      "date": "04-Oct-2026"
     },
     "INF754K01HK6": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2154.3868,
-      "date": "01-Oct-2026"
+      "price": 2155.4423,
+      "date": "04-Oct-2026"
     },
     "INF754K01HC3": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 2154.3868,
-      "date": "01-Oct-2026"
+      "price": 2155.4423,
+      "date": "04-Oct-2026"
     },
     "INF754K01HL4": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1083.7743,
-      "date": "01-Oct-2026"
+      "price": 1084.3053,
+      "date": "04-Oct-2026"
     },
     "INF754K01HD1": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1083.7743,
-      "date": "01-Oct-2026"
+      "price": 1084.3053,
+      "date": "04-Oct-2026"
     },
     "INF754K01HJ8": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1215.9708,
-      "date": "01-Oct-2026"
+      "price": 1216.5665,
+      "date": "04-Oct-2026"
     },
     "INF754K01HB5": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1215.9708,
-      "date": "01-Oct-2026"
+      "price": 1216.5665,
+      "date": "04-Oct-2026"
     },
     "INF754K01HE9": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 3280.109,
-      "date": "01-Oct-2026"
+      "price": 3281.7165,
+      "date": "04-Oct-2026"
     },
     "INF754K01HG4": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1231.7415,
-      "date": "01-Oct-2026"
+      "price": 1232.3452,
+      "date": "04-Oct-2026"
     },
     "INF754K01HF6": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1175.5465,
-      "date": "01-Oct-2026"
+      "price": 1176.1265,
+      "date": "04-Oct-2026"
     },
     "INF754K01HI0": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Liquid Fund",
-      "price": 1245.1316,
-      "date": "01-Oct-2026"
+      "price": 1245.7423,
+      "date": "04-Oct-2026"
     },
     "INF090I01BA3": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
       "price": 1508.9895,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01BB1": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 6335.1397,
-      "date": "02-Oct-2026"
+      "price": 6336.9034,
+      "date": "04-Oct-2026"
     },
     "INF090I01BL0": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 1245.187,
-      "date": "01-Oct-2026"
+      "price": 1244.2967,
+      "date": "04-Oct-2026"
     },
     "INF090I01BI6": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 1245.187,
-      "date": "01-Oct-2026"
+      "price": 1244.2967,
+      "date": "04-Oct-2026"
     },
     "INF090I01JV2": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 4285.756,
-      "date": "02-Oct-2026"
+      "price": 4287.1191,
+      "date": "04-Oct-2026"
     },
     "INF090I01BF2": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
       "price": 1000.0,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01JW0": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
       "price": 1002.8152,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01JX8": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 1022.7819,
-      "date": "01-Oct-2026"
+      "price": 1021.9698,
+      "date": "04-Oct-2026"
     },
     "INF090I01JY6": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 1022.7819,
-      "date": "01-Oct-2026"
+      "price": 1021.9698,
+      "date": "04-Oct-2026"
     },
     "INF090I01BG0": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 4247.2689,
-      "date": "02-Oct-2026"
+      "price": 4248.6065,
+      "date": "04-Oct-2026"
     },
     "INF090I01BM8": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 1039.311,
-      "date": "01-Oct-2026"
+      "price": 1038.4924,
+      "date": "04-Oct-2026"
     },
     "INF090I01BH8": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 1039.311,
-      "date": "01-Oct-2026"
+      "price": 1038.4924,
+      "date": "04-Oct-2026"
     },
     "INF090I01LR6": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
       "price": 10.0,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01LP0": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 18.082,
-      "date": "01-Oct-2026"
+      "price": 18.0907,
+      "date": "04-Oct-2026"
     },
     "INF090I01LQ8": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
       "price": 10.0,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01LO3": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund",
-      "price": 18.082,
-      "date": "01-Oct-2026"
+      "price": 18.0907,
+      "date": "04-Oct-2026"
     },
     "INF090I01BD7": {
       "type": "MUTUAL_FUND",
@@ -26448,73 +26448,73 @@
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund- Institution",
       "price": 1000.0,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01BJ4": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund- Institution",
-      "price": 1055.5043,
-      "date": "01-Oct-2026"
+      "price": 1054.7184,
+      "date": "04-Oct-2026"
     },
     "INF090I01BE5": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Liquid Fund- Institution",
-      "price": 1055.5043,
-      "date": "01-Oct-2026"
+      "price": 1054.7184,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HP9": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 5596.2779,
-      "date": "02-Oct-2026"
+      "price": 5598.0849,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HK0": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 5529.9856,
-      "date": "02-Oct-2026"
+      "price": 5531.7426,
+      "date": "04-Oct-2026"
     },
     "INF179KB1IC5": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
       "price": 1019.82,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF179KB1HV7": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
       "price": 1019.82,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF179KB1HM6": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 1027.0679,
-      "date": "01-Oct-2026"
+      "price": 1027.5572,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HL8": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 1027.0679,
-      "date": "01-Oct-2026"
+      "price": 1027.5572,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HO2": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 1027.076,
-      "date": "01-Oct-2026"
+      "price": 1027.5733,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HQ7": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 1027.076,
-      "date": "01-Oct-2026"
+      "price": 1027.5733,
+      "date": "04-Oct-2026"
     },
     "INF179KB1ID3": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Liquid Fund",
-      "price": 1031.8009,
-      "date": "01-Oct-2026"
+      "price": 1032.2925,
+      "date": "04-Oct-2026"
     },
     "INF179K01KP9": {
       "type": "MUTUAL_FUND",
@@ -26562,7 +26562,7 @@
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
       "price": 100.1482,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109K01P99": {
       "type": "MUTUAL_FUND",
@@ -26591,26 +26591,26 @@
     "INF109K01Q31": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 195.5649,
-      "date": "01-Oct-2026"
+      "price": 195.6594,
+      "date": "04-Oct-2026"
     },
     "INF109K01Q23": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 195.5649,
-      "date": "01-Oct-2026"
+      "price": 195.6594,
+      "date": "04-Oct-2026"
     },
     "INF109K01Q15": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
       "price": 100.1082,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109K01Q49": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 421.7273,
-      "date": "02-Oct-2026"
+      "price": 421.8632,
+      "date": "04-Oct-2026"
     },
     "INF109K01R06": {
       "type": "MUTUAL_FUND",
@@ -26633,8 +26633,8 @@
     "INF109K01Q98": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 100.2599,
-      "date": "01-Oct-2026"
+      "price": 100.3083,
+      "date": "04-Oct-2026"
     },
     "INF109KA1G86": {
       "type": "MUTUAL_FUND",
@@ -26645,8 +26645,8 @@
     "INF109K01VQ1": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 417.1368,
-      "date": "02-Oct-2026"
+      "price": 417.2688,
+      "date": "04-Oct-2026"
     },
     "INF109K01UX9": {
       "type": "MUTUAL_FUND",
@@ -26663,14 +26663,14 @@
     "INF109K01VU3": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 193.8328,
-      "date": "01-Oct-2026"
+      "price": 193.9248,
+      "date": "04-Oct-2026"
     },
     "INF109K01VT5": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 193.8328,
-      "date": "01-Oct-2026"
+      "price": 193.9248,
+      "date": "04-Oct-2026"
     },
     "INF109K01VH0": {
       "type": "MUTUAL_FUND",
@@ -26705,8 +26705,8 @@
     "INF109K01VS7": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Liquid Fund -",
-      "price": 100.2339,
-      "date": "01-Oct-2026"
+      "price": 100.2815,
+      "date": "04-Oct-2026"
     },
     "INF109K01VR9": {
       "type": "MUTUAL_FUND",
@@ -27155,140 +27155,140 @@
     "INF204K01UM1": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1528.9811,
-      "date": "02-Oct-2026"
+      "price": 1528.74,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZG2": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1528.9879,
-      "date": "02-Oct-2026"
+      "price": 1528.74,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZI8": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1589.289,
-      "date": "02-Oct-2026"
+      "price": 1589.8047,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZJ6": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1589.289,
-      "date": "02-Oct-2026"
+      "price": 1589.8047,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZK4": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1006.0825,
-      "date": "02-Oct-2026"
+      "price": 1006.409,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZL2": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1006.0825,
-      "date": "02-Oct-2026"
+      "price": 1006.409,
+      "date": "04-Oct-2026"
     },
     "INF204KC1FN6": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1531.1214,
-      "date": "02-Oct-2026"
+      "price": 1531.6182,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZM0": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1531.1214,
-      "date": "02-Oct-2026"
+      "price": 1531.6182,
+      "date": "04-Oct-2026"
     },
     "INF204K01ZH0": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 6979.4065,
-      "date": "02-Oct-2026"
+      "price": 6981.6712,
+      "date": "04-Oct-2026"
     },
     "INF204K01UO7": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1585.9279,
-      "date": "02-Oct-2026"
+      "price": 1586.4271,
+      "date": "04-Oct-2026"
     },
     "INF204K01UP4": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1585.9279,
-      "date": "02-Oct-2026"
+      "price": 1586.4271,
+      "date": "04-Oct-2026"
     },
     "INF204K01UQ2": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1006.0139,
-      "date": "02-Oct-2026"
+      "price": 1006.3305,
+      "date": "04-Oct-2026"
     },
     "INF204K01UR0": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1006.0139,
-      "date": "02-Oct-2026"
+      "price": 1006.3305,
+      "date": "04-Oct-2026"
     },
     "INF204K01UL3": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 6094.441,
-      "date": "02-Oct-2026"
+      "price": 6096.3422,
+      "date": "04-Oct-2026"
     },
     "INF204K01UJ7": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1524.5177,
-      "date": "02-Oct-2026"
+      "price": 1524.28,
+      "date": "04-Oct-2026"
     },
     "INF204K01UT6": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1328.2055,
-      "date": "02-Oct-2026"
+      "price": 1328.6198,
+      "date": "04-Oct-2026"
     },
     "INF204K01UU4": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1328.2055,
-      "date": "02-Oct-2026"
+      "price": 1328.6198,
+      "date": "04-Oct-2026"
     },
     "INF204K01UV2": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1215.1865,
-      "date": "02-Oct-2026"
+      "price": 1215.5659,
+      "date": "04-Oct-2026"
     },
     "INF204K01UW0": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1215.1865,
-      "date": "02-Oct-2026"
+      "price": 1215.5659,
+      "date": "04-Oct-2026"
     },
     "INF204K01UK5": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1034.7063,
-      "date": "02-Oct-2026"
+      "price": 1035.0291,
+      "date": "04-Oct-2026"
     },
     "INF204KC1FM8": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1531.1074,
-      "date": "02-Oct-2026"
+      "price": 1531.5893,
+      "date": "04-Oct-2026"
     },
     "INF204K01US8": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 1531.1074,
-      "date": "02-Oct-2026"
+      "price": 1531.5893,
+      "date": "04-Oct-2026"
     },
     "INF204K01UN9": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Liquid Fund",
-      "price": 6879.1697,
-      "date": "02-Oct-2026"
+      "price": 6881.3349,
+      "date": "04-Oct-2026"
     },
     "INF223J01WV0": {
       "type": "MUTUAL_FUND",
@@ -27659,86 +27659,86 @@
     "INF200K01UR8": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1454.7906,
-      "date": "02-Oct-2026"
+      "price": 1455.2515,
+      "date": "04-Oct-2026"
     },
     "INF200K01US6": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1454.7906,
-      "date": "02-Oct-2026"
+      "price": 1455.2515,
+      "date": "04-Oct-2026"
     },
     "INF200K01UQ0": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1144.2292,
-      "date": "02-Oct-2026"
+      "price": 1144.0484,
+      "date": "04-Oct-2026"
     },
     "INF200K01UU2": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1385.7162,
-      "date": "02-Oct-2026"
+      "price": 1386.1552,
+      "date": "04-Oct-2026"
     },
     "INF200K01UV0": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1385.7162,
-      "date": "02-Oct-2026"
+      "price": 1386.1552,
+      "date": "04-Oct-2026"
     },
     "INF200K01UT4": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 4455.0279,
-      "date": "02-Oct-2026"
+      "price": 4456.4395,
+      "date": "04-Oct-2026"
     },
     "INF200K01LU1": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 4445.9593,
-      "date": "02-Oct-2026"
+      "price": 4447.34,
+      "date": "04-Oct-2026"
     },
     "INF200K01LR7": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1428.3282,
-      "date": "02-Oct-2026"
+      "price": 1428.7716,
+      "date": "04-Oct-2026"
     },
     "INF200K01LX5": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1140.9157,
-      "date": "02-Oct-2026"
+      "price": 1140.7391,
+      "date": "04-Oct-2026"
     },
     "INF200K01LY3": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1445.4157,
-      "date": "02-Oct-2026"
+      "price": 1445.8644,
+      "date": "04-Oct-2026"
     },
     "INF200K01LZ0": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1445.4157,
-      "date": "02-Oct-2026"
+      "price": 1445.8644,
+      "date": "04-Oct-2026"
     },
     "INF200K01MB9": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1378.8193,
-      "date": "02-Oct-2026"
+      "price": 1379.2473,
+      "date": "04-Oct-2026"
     },
     "INF200K01MC7": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 1378.8193,
-      "date": "02-Oct-2026"
+      "price": 1379.2473,
+      "date": "04-Oct-2026"
     },
     "INF200K01MA1": {
       "type": "MUTUAL_FUND",
       "name": "SBI LIQUID FUND",
-      "price": 4404.3206,
-      "date": "02-Oct-2026"
+      "price": 4405.6876,
+      "date": "04-Oct-2026"
     },
     "INF903JA1JK3": {
       "type": "MUTUAL_FUND",
@@ -27839,38 +27839,38 @@
     "INF277KA1EE2": {
       "type": "MUTUAL_FUND",
       "name": "Tata Liquid Fund",
-      "price": 1071.1806,
-      "date": "02-Oct-2026"
+      "price": 1071.535,
+      "date": "04-Oct-2026"
     },
     "INF277KA1EF9": {
       "type": "MUTUAL_FUND",
       "name": "Tata Liquid Fund",
-      "price": 1066.0715,
-      "date": "02-Oct-2026"
+      "price": 1066.4176,
+      "date": "04-Oct-2026"
     },
     "INF277K01YD8": {
       "type": "MUTUAL_FUND",
       "name": "Tata Liquid Fund",
-      "price": 4438.896,
-      "date": "02-Oct-2026"
+      "price": 4440.3371,
+      "date": "04-Oct-2026"
     },
     "INF277K012D2": {
       "type": "MUTUAL_FUND",
       "name": "Tata Liquid Fund",
       "price": 1001.5187,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF277K01YE6": {
       "type": "MUTUAL_FUND",
       "name": "Tata Liquid Fund",
-      "price": 4498.8212,
-      "date": "02-Oct-2026"
+      "price": 4500.3095,
+      "date": "04-Oct-2026"
     },
     "INF277K011D4": {
       "type": "MUTUAL_FUND",
       "name": "Tata Liquid Fund",
       "price": 1001.5157,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF044D01542": {
       "type": "MUTUAL_FUND",
@@ -30095,50 +30095,50 @@
     "INF209KB1ZL4": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
-      "price": 1000.8511,
-      "date": "01-Oct-2026"
+      "price": 1001.267,
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZJ8": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
-      "price": 1001.8303,
-      "date": "01-Oct-2026"
+      "price": 1002.246,
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZE9": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
-      "price": 1000.833,
-      "date": "01-Oct-2026"
+      "price": 1001.2397,
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZI0": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
       "price": 1000.02,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZD1": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
       "price": 1000.02,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZG4": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
-      "price": 1000.8322,
-      "date": "01-Oct-2026"
+      "price": 1001.2389,
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZH2": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
-      "price": 1494.2704,
-      "date": "01-Oct-2026"
+      "price": 1494.8914,
+      "date": "04-Oct-2026"
     },
     "INF209KB1ZC3": {
       "type": "MUTUAL_FUND",
       "name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND",
-      "price": 1480.8163,
-      "date": "01-Oct-2026"
+      "price": 1481.418,
+      "date": "04-Oct-2026"
     },
     "INF0QA701AE3": {
       "type": "MUTUAL_FUND",
@@ -30503,182 +30503,182 @@
     "INF754K01KD5": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1359.0272,
-      "date": "01-Oct-2026"
+      "price": 1359.5893,
+      "date": "04-Oct-2026"
     },
     "INF754K01KC7": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1359.0272,
-      "date": "01-Oct-2026"
+      "price": 1359.5893,
+      "date": "04-Oct-2026"
     },
     "INF754K01JW7": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1000.2528,
-      "date": "01-Oct-2026"
+      "price": 1000.2534,
+      "date": "04-Oct-2026"
     },
     "INF754K01JZ0": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1372.973,
-      "date": "01-Oct-2026"
+      "price": 1373.3784,
+      "date": "04-Oct-2026"
     },
     "INF754K01JY3": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1372.973,
-      "date": "01-Oct-2026"
+      "price": 1373.3784,
+      "date": "04-Oct-2026"
     },
     "INF754K01JV9": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1429.2039,
-      "date": "01-Oct-2026"
+      "price": 1429.7952,
+      "date": "04-Oct-2026"
     },
     "INF754K01KB9": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1058.3908,
-      "date": "01-Oct-2026"
+      "price": 1058.8289,
+      "date": "04-Oct-2026"
     },
     "INF754K01KA1": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1058.3908,
-      "date": "01-Oct-2026"
+      "price": 1058.8289,
+      "date": "04-Oct-2026"
     },
     "INF754K01JX5": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1378.6995,
-      "date": "01-Oct-2026"
+      "price": 1379.2698,
+      "date": "04-Oct-2026"
     },
     "INF754K01KM6": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1352.9726,
-      "date": "01-Oct-2026"
+      "price": 1353.527,
+      "date": "04-Oct-2026"
     },
     "INF754K01KL8": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1352.9726,
-      "date": "01-Oct-2026"
+      "price": 1353.527,
+      "date": "04-Oct-2026"
     },
     "INF754K01KF0": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1008.3781,
-      "date": "01-Oct-2026"
+      "price": 1008.3784,
+      "date": "04-Oct-2026"
     },
     "INF754K01KI4": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1095.6124,
-      "date": "01-Oct-2026"
+      "price": 1096.0609,
+      "date": "04-Oct-2026"
     },
     "INF754K01KH6": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1095.6124,
-      "date": "01-Oct-2026"
+      "price": 1096.0609,
+      "date": "04-Oct-2026"
     },
     "INF754K01KE3": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1423.602,
-      "date": "01-Oct-2026"
+      "price": 1424.1851,
+      "date": "04-Oct-2026"
     },
     "INF754K01KK0": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1005.2449,
-      "date": "01-Oct-2026"
+      "price": 1005.6566,
+      "date": "04-Oct-2026"
     },
     "INF754K01KJ2": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1005.2449,
-      "date": "01-Oct-2026"
+      "price": 1005.6566,
+      "date": "04-Oct-2026"
     },
     "INF754K01KG8": {
       "type": "MUTUAL_FUND",
       "name": "Edelweiss Overnight Fund",
-      "price": 1016.8386,
-      "date": "01-Oct-2026"
+      "price": 1017.255,
+      "date": "04-Oct-2026"
     },
     "INF090I01SM2": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
       "price": 1000.0001,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01ST7": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
       "price": 1000.0007,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF090I01SR1": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
-      "price": 1000.5688,
-      "date": "01-Oct-2026"
+      "price": 1000.0026,
+      "date": "04-Oct-2026"
     },
     "INF090I01SQ3": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
-      "price": 1000.5688,
-      "date": "01-Oct-2026"
+      "price": 1000.0026,
+      "date": "04-Oct-2026"
     },
     "INF090I01SN0": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
-      "price": 1000.5674,
-      "date": "01-Oct-2026"
+      "price": 1000.0066,
+      "date": "04-Oct-2026"
     },
     "INF090I01SP5": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
-      "price": 1000.5674,
-      "date": "01-Oct-2026"
+      "price": 1000.0066,
+      "date": "04-Oct-2026"
     },
     "INF090I01SO8": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
-      "price": 1436.5801,
-      "date": "02-Oct-2026"
+      "price": 1436.9856,
+      "date": "04-Oct-2026"
     },
     "INF090I01SS9": {
       "type": "MUTUAL_FUND",
       "name": "Franklin India Overnight Fund",
-      "price": 1441.7458,
-      "date": "02-Oct-2026"
+      "price": 1442.1563,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HY1": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Overnight Fund",
       "price": 1042.66,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF179KB1HS3": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Overnight Fund",
-      "price": 4051.801,
-      "date": "02-Oct-2026"
+      "price": 4052.8912,
+      "date": "04-Oct-2026"
     },
     "INF179KB1HT1": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Overnight Fund",
-      "price": 4095.8114,
-      "date": "02-Oct-2026"
+      "price": 4096.9345,
+      "date": "04-Oct-2026"
     },
     "INF179KB1IF8": {
       "type": "MUTUAL_FUND",
       "name": "HDFC Overnight Fund",
       "price": 1042.66,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109KC19F6": {
       "type": "MUTUAL_FUND",
@@ -30696,7 +30696,7 @@
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
       "price": 1000.005,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109KC13H5": {
       "type": "MUTUAL_FUND",
@@ -30714,7 +30714,7 @@
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
       "price": 1000.005,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109KC18G6": {
       "type": "MUTUAL_FUND",
@@ -30731,8 +30731,8 @@
     "INF109KC11G1": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1489.0576,
-      "date": "02-Oct-2026"
+      "price": 1489.4647,
+      "date": "04-Oct-2026"
     },
     "INF109KC11H9": {
       "type": "MUTUAL_FUND",
@@ -30774,37 +30774,37 @@
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
       "price": 1000.0,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109KC16H8": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1313.6422,
-      "date": "01-Oct-2026"
+      "price": 1314.1808,
+      "date": "04-Oct-2026"
     },
     "INF109KC17H6": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
       "price": 1000.0,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF109KC15H0": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1313.655,
-      "date": "01-Oct-2026"
+      "price": 1314.1935,
+      "date": "04-Oct-2026"
     },
     "INF109KC16G0": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1000.4256,
-      "date": "01-Oct-2026"
+      "price": 1000.8358,
+      "date": "04-Oct-2026"
     },
     "INF109KC15G2": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1000.4256,
-      "date": "01-Oct-2026"
+      "price": 1000.8358,
+      "date": "04-Oct-2026"
     },
     "INF109KC14F7": {
       "type": "MUTUAL_FUND",
@@ -30821,8 +30821,8 @@
     "INF109KC17E3": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1479.4608,
-      "date": "02-Oct-2026"
+      "price": 1479.8604,
+      "date": "04-Oct-2026"
     },
     "INF109KC17F0": {
       "type": "MUTUAL_FUND",
@@ -30863,14 +30863,14 @@
     "INF109KC12F1": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1000.4216,
-      "date": "01-Oct-2026"
+      "price": 1000.8268,
+      "date": "04-Oct-2026"
     },
     "INF109KC11F3": {
       "type": "MUTUAL_FUND",
       "name": "ICICI Prudential Overnight Fund",
-      "price": 1000.4216,
-      "date": "01-Oct-2026"
+      "price": 1000.8268,
+      "date": "04-Oct-2026"
     },
     "INF00XX01648": {
       "type": "MUTUAL_FUND",
@@ -30983,26 +30983,26 @@
     "INF174KA1BF9": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Overnight Fund",
-      "price": 1474.3867,
-      "date": "02-Oct-2026"
+      "price": 1474.795,
+      "date": "04-Oct-2026"
     },
     "INF174KA1BC6": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Overnight Fund",
-      "price": 1463.9627,
-      "date": "02-Oct-2026"
+      "price": 1464.3594,
+      "date": "04-Oct-2026"
     },
     "INF174KA1BE2": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Overnight Fund",
-      "price": 1003.7439,
-      "date": "02-Oct-2026"
+      "price": 1003.6055,
+      "date": "04-Oct-2026"
     },
     "INF174KA1BB8": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Overnight Fund",
-      "price": 1004.8921,
-      "date": "02-Oct-2026"
+      "price": 1004.7568,
+      "date": "04-Oct-2026"
     },
     "INF767K01QG7": {
       "type": "MUTUAL_FUND",
@@ -31091,86 +31091,86 @@
     "INF204KB1Q73": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.0188,
-      "date": "02-Oct-2026"
+      "price": 100.005,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R49": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.019,
-      "date": "02-Oct-2026"
+      "price": 100.005,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R31": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 148.4537,
-      "date": "02-Oct-2026"
+      "price": 148.4953,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R64": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.2193,
-      "date": "02-Oct-2026"
+      "price": 100.2474,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R72": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.2193,
-      "date": "02-Oct-2026"
+      "price": 100.2474,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R80": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.471,
-      "date": "02-Oct-2026"
+      "price": 100.4992,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R98": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.471,
-      "date": "02-Oct-2026"
+      "price": 100.4992,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R56": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.1027,
-      "date": "02-Oct-2026"
+      "price": 100.1308,
+      "date": "04-Oct-2026"
     },
     "INF204KB1Q99": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.2088,
-      "date": "02-Oct-2026"
+      "price": 100.2365,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R07": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.2088,
-      "date": "02-Oct-2026"
+      "price": 100.2365,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R15": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.4655,
-      "date": "02-Oct-2026"
+      "price": 100.4932,
+      "date": "04-Oct-2026"
     },
     "INF204KB1R23": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.4655,
-      "date": "02-Oct-2026"
+      "price": 100.4932,
+      "date": "04-Oct-2026"
     },
     "INF204KB1Q65": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 147.4026,
-      "date": "02-Oct-2026"
+      "price": 147.4433,
+      "date": "04-Oct-2026"
     },
     "INF204KB1Q81": {
       "type": "MUTUAL_FUND",
       "name": "Nippon India Overnight Fund",
-      "price": 100.1012,
-      "date": "02-Oct-2026"
+      "price": 100.1288,
+      "date": "04-Oct-2026"
     },
     "INF663L01T35": {
       "type": "MUTUAL_FUND",
@@ -31259,62 +31259,62 @@
     "INF0K1H01040": {
       "type": "MUTUAL_FUND",
       "name": "Samco Overnight Fund",
-      "price": 1260.3198,
-      "date": "02-Oct-2026"
+      "price": 1260.6559,
+      "date": "04-Oct-2026"
     },
     "INF0K1H01032": {
       "type": "MUTUAL_FUND",
       "name": "Samco Overnight Fund",
-      "price": 1249.6941,
-      "date": "02-Oct-2026"
+      "price": 1250.0141,
+      "date": "04-Oct-2026"
     },
     "INF200K01TJ7": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1394.4545,
-      "date": "02-Oct-2026"
+      "price": 1394.8477,
+      "date": "04-Oct-2026"
     },
     "INF200K01TK5": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 4492.6166,
-      "date": "02-Oct-2026"
+      "price": 4493.8836,
+      "date": "04-Oct-2026"
     },
     "INF200K01TL3": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1423.9358,
-      "date": "02-Oct-2026"
+      "price": 1424.3374,
+      "date": "04-Oct-2026"
     },
     "INF200K01TM1": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1423.9358,
-      "date": "02-Oct-2026"
+      "price": 1424.3374,
+      "date": "04-Oct-2026"
     },
     "INF200K01LN6": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1387.8599,
-      "date": "02-Oct-2026"
+      "price": 1388.2486,
+      "date": "04-Oct-2026"
     },
     "INF200K01LQ9": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 4431.2538,
-      "date": "02-Oct-2026"
+      "price": 4432.4949,
+      "date": "04-Oct-2026"
     },
     "INF200K01LO4": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1417.0995,
-      "date": "02-Oct-2026"
+      "price": 1417.4964,
+      "date": "04-Oct-2026"
     },
     "INF200K01LP1": {
       "type": "MUTUAL_FUND",
       "name": "SBI OVERNIGHT FUND",
-      "price": 1417.0995,
-      "date": "02-Oct-2026"
+      "price": 1417.4964,
+      "date": "04-Oct-2026"
     },
     "INF903JA1HJ9": {
       "type": "MUTUAL_FUND",
@@ -31392,25 +31392,25 @@
       "type": "MUTUAL_FUND",
       "name": "Tata Overnight Fund",
       "price": 1000.0,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF277K017T7": {
       "type": "MUTUAL_FUND",
       "name": "Tata Overnight Fund",
       "price": 1000.0,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF277K018T5": {
       "type": "MUTUAL_FUND",
       "name": "Tata Overnight Fund",
-      "price": 1458.9576,
-      "date": "02-Oct-2026"
+      "price": 1459.3696,
+      "date": "04-Oct-2026"
     },
     "INF277K016T9": {
       "type": "MUTUAL_FUND",
       "name": "Tata Overnight Fund",
-      "price": 1446.4976,
-      "date": "02-Oct-2026"
+      "price": 1446.8958,
+      "date": "04-Oct-2026"
     },
     "INF0GCD01461": {
       "type": "MUTUAL_FUND",
@@ -31493,50 +31493,50 @@
     "INF789F01604": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
-      "price": 3739.975,
-      "date": "03-Oct-2026"
+      "price": 3740.4904,
+      "date": "04-Oct-2026"
     },
     "INF789FB1S71": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
-      "price": 3783.0234,
-      "date": "03-Oct-2026"
+      "price": 3783.5496,
+      "date": "04-Oct-2026"
     },
     "INF789FB1S89": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
       "price": 1371.6621,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF789FB1T05": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
-      "price": 1985.3834,
-      "date": "03-Oct-2026"
+      "price": 1985.6595,
+      "date": "04-Oct-2026"
     },
     "INF789FB1S97": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
-      "price": 1985.3834,
-      "date": "03-Oct-2026"
+      "price": 1985.6595,
+      "date": "04-Oct-2026"
     },
     "INF789FB1T13": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
       "price": 1370.8617,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF789F01588": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
-      "price": 1926.705,
-      "date": "03-Oct-2026"
+      "price": 1926.9705,
+      "date": "04-Oct-2026"
     },
     "INF789F01596": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Overnight Fund",
-      "price": 1926.705,
-      "date": "03-Oct-2026"
+      "price": 1926.9705,
+      "date": "04-Oct-2026"
     },
     "INF0R8F01075": {
       "type": "MUTUAL_FUND",
@@ -72372,109 +72372,109 @@
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
       "price": 1000.956,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF846K01CX4": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 3171.9127,
-      "date": "02-Oct-2026"
+      "price": 3172.9339,
+      "date": "04-Oct-2026"
     },
     "INF846K01CY2": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.0336,
-      "date": "02-Oct-2026"
+      "price": 1002.3562,
+      "date": "04-Oct-2026"
     },
     "INF846K01CZ9": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.0336,
-      "date": "02-Oct-2026"
+      "price": 1002.3562,
+      "date": "04-Oct-2026"
     },
     "INF846K01DB8": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.989,
-      "date": "02-Oct-2026"
+      "price": 1003.3119,
+      "date": "04-Oct-2026"
     },
     "INF846K01DC6": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.989,
-      "date": "02-Oct-2026"
+      "price": 1003.3119,
+      "date": "04-Oct-2026"
     },
     "INF846K01420": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
       "price": 1001.3998,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF846K01412": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 3141.2287,
-      "date": "02-Oct-2026"
+      "price": 3142.2217,
+      "date": "04-Oct-2026"
     },
     "INF846K01453": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.6041,
-      "date": "02-Oct-2026"
+      "price": 1002.921,
+      "date": "04-Oct-2026"
     },
     "INF846K01461": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.6041,
-      "date": "02-Oct-2026"
+      "price": 1002.921,
+      "date": "04-Oct-2026"
     },
     "INF846K01438": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.9772,
-      "date": "02-Oct-2026"
+      "price": 1003.2943,
+      "date": "04-Oct-2026"
     },
     "INF846K01446": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1002.9772,
-      "date": "02-Oct-2026"
+      "price": 1003.2943,
+      "date": "04-Oct-2026"
     },
     "INF846K01362": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
       "price": 1000.9559,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF846K01354": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 2858.636,
-      "date": "02-Oct-2026"
+      "price": 2859.4639,
+      "date": "04-Oct-2026"
     },
     "INF846K01396": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1001.9533,
-      "date": "02-Oct-2026"
+      "price": 1002.2442,
+      "date": "04-Oct-2026"
     },
     "INF846K01404": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1001.9533,
-      "date": "02-Oct-2026"
+      "price": 1002.2442,
+      "date": "04-Oct-2026"
     },
     "INF846K01370": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1001.5686,
-      "date": "02-Oct-2026"
+      "price": 1001.9608,
+      "date": "04-Oct-2026"
     },
     "INF846K01388": {
       "type": "MUTUAL_FUND",
       "name": "Axis Liquid Fund",
-      "price": 1001.5686,
-      "date": "02-Oct-2026"
+      "price": 1001.9608,
+      "date": "04-Oct-2026"
     },
     "INF760K01FS0": {
       "type": "MUTUAL_FUND",
@@ -72804,85 +72804,85 @@
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
       "price": 1002.7594,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF205K01MF9": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 3912.6974,
-      "date": "03-Oct-2026"
+      "price": 3913.3296,
+      "date": "04-Oct-2026"
     },
     "INF205K01MG7": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1083.086,
-      "date": "03-Oct-2026"
+      "price": 1083.261,
+      "date": "04-Oct-2026"
     },
     "INF205K01MH5": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1083.086,
-      "date": "03-Oct-2026"
+      "price": 1083.261,
+      "date": "04-Oct-2026"
     },
     "INF205KA1BE5": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1073.5211,
-      "date": "03-Oct-2026"
+      "price": 1073.6946,
+      "date": "04-Oct-2026"
     },
     "INF205K01MI3": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1073.5211,
-      "date": "03-Oct-2026"
+      "price": 1073.6946,
+      "date": "04-Oct-2026"
     },
     "INF205K01ME2": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
       "price": 1005.8604,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF205K01HM5": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 3876.4322,
-      "date": "03-Oct-2026"
+      "price": 3877.0511,
+      "date": "04-Oct-2026"
     },
     "INF205K01HQ6": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1004.0364,
-      "date": "03-Oct-2026"
+      "price": 1004.1967,
+      "date": "04-Oct-2026"
     },
     "INF205K01HP8": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1004.0364,
-      "date": "03-Oct-2026"
+      "price": 1004.1967,
+      "date": "04-Oct-2026"
     },
     "INF205K01HG7": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 3411.2295,
-      "date": "03-Oct-2026"
+      "price": 3411.732,
+      "date": "04-Oct-2026"
     },
     "INF205K01HH5": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1005.0941,
-      "date": "03-Oct-2026"
+      "price": 1005.2421,
+      "date": "04-Oct-2026"
     },
     "INF205KA1BD7": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1019.6613,
-      "date": "03-Oct-2026"
+      "price": 1019.8241,
+      "date": "04-Oct-2026"
     },
     "INF205K01HO1": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Liquid Fund",
-      "price": 1019.6613,
-      "date": "03-Oct-2026"
+      "price": 1019.8241,
+      "date": "04-Oct-2026"
     },
     "INF22M001010": {
       "type": "MUTUAL_FUND",
@@ -73001,74 +73001,74 @@
     "INF174KA1E09": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1009.055,
-      "date": "02-Oct-2026"
+      "price": 1009.3867,
+      "date": "04-Oct-2026"
     },
     "INF174KA1D83": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1009.055,
-      "date": "02-Oct-2026"
+      "price": 1009.3867,
+      "date": "04-Oct-2026"
     },
     "INF174K01NH1": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1223.0106,
-      "date": "02-Oct-2026"
+      "price": 1222.81,
+      "date": "04-Oct-2026"
     },
     "INF174K01NE8": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 5758.3105,
-      "date": "02-Oct-2026"
+      "price": 5760.2029,
+      "date": "04-Oct-2026"
     },
     "INF174KA1WL3": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1012.6128,
-      "date": "02-Oct-2026"
+      "price": 1012.9455,
+      "date": "04-Oct-2026"
     },
     "INF174KA1WJ7": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1012.6128,
-      "date": "02-Oct-2026"
+      "price": 1012.9455,
+      "date": "04-Oct-2026"
     },
     "INF174K01NL3": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1283.7508,
-      "date": "02-Oct-2026"
+      "price": 1283.5466,
+      "date": "04-Oct-2026"
     },
     "INF174K01NI9": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 5695.2731,
-      "date": "02-Oct-2026"
+      "price": 5697.0887,
+      "date": "04-Oct-2026"
     },
     "INF174KA1WK5": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1044.9451,
-      "date": "02-Oct-2026"
+      "price": 1045.2782,
+      "date": "04-Oct-2026"
     },
     "INF174KA1WM1": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1044.9451,
-      "date": "02-Oct-2026"
+      "price": 1045.2782,
+      "date": "04-Oct-2026"
     },
     "INF174KA1D91": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1004.6084,
-      "date": "02-Oct-2026"
+      "price": 1004.9286,
+      "date": "04-Oct-2026"
     },
     "INF174KA1E17": {
       "type": "MUTUAL_FUND",
       "name": "Kotak Liquid Fund",
-      "price": 1004.6084,
-      "date": "02-Oct-2026"
+      "price": 1004.9286,
+      "date": "04-Oct-2026"
     },
     "INF174V01051": {
       "type": "MUTUAL_FUND",
@@ -73110,73 +73110,73 @@
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
       "price": 1075.8332,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF769K01CM1": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 3008.2407,
-      "date": "01-Oct-2026"
+      "price": 3009.7282,
+      "date": "04-Oct-2026"
     },
     "INF769K01CN9": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1135.9611,
-      "date": "01-Oct-2026"
+      "price": 1136.5228,
+      "date": "04-Oct-2026"
     },
     "INF769K01CQ2": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1135.9611,
-      "date": "01-Oct-2026"
+      "price": 1136.5228,
+      "date": "04-Oct-2026"
     },
     "INF769K01PD2": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1216.6739,
-      "date": "01-Oct-2026"
+      "price": 1217.2756,
+      "date": "04-Oct-2026"
     },
     "INF769K01CP4": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1216.6739,
-      "date": "01-Oct-2026"
+      "price": 1217.2756,
+      "date": "04-Oct-2026"
     },
     "INF769K01804": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
       "price": 1066.4347,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF769K01788": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 2953.2722,
-      "date": "01-Oct-2026"
+      "price": 2954.7077,
+      "date": "04-Oct-2026"
     },
     "INF769K01838": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1153.6128,
-      "date": "01-Oct-2026"
+      "price": 1154.1736,
+      "date": "04-Oct-2026"
     },
     "INF769K01820": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1153.6128,
-      "date": "01-Oct-2026"
+      "price": 1154.1736,
+      "date": "04-Oct-2026"
     },
     "INF769K01PC4": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1152.9877,
-      "date": "01-Oct-2026"
+      "price": 1153.5482,
+      "date": "04-Oct-2026"
     },
     "INF769K01812": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Liquid Fund",
-      "price": 1152.9877,
-      "date": "01-Oct-2026"
+      "price": 1153.5482,
+      "date": "04-Oct-2026"
     },
     "INF680P01430": {
       "type": "MUTUAL_FUND",
@@ -73193,224 +73193,224 @@
     "INF789F1AE45": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 205.5594,
-      "date": "03-Oct-2026"
+      "price": 205.5927,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE52": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 205.5594,
-      "date": "03-Oct-2026"
+      "price": 205.5927,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD38": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
       "price": 106.5304,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF789F1AE60": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 169.3079,
-      "date": "03-Oct-2026"
+      "price": 169.3354,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE78": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 169.3079,
-      "date": "03-Oct-2026"
+      "price": 169.3354,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD87": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 115.9031,
-      "date": "03-Oct-2026"
+      "price": 115.9219,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD95": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 115.9031,
-      "date": "03-Oct-2026"
+      "price": 115.9219,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD46": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 467.4064,
-      "date": "03-Oct-2026"
+      "price": 467.4822,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE29": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 160.5687,
-      "date": "03-Oct-2026"
+      "price": 160.5947,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE37": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 160.5687,
-      "date": "03-Oct-2026"
+      "price": 160.5947,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD53": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 104.4657,
-      "date": "03-Oct-2026"
+      "price": 104.4826,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD61": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 104.4657,
-      "date": "03-Oct-2026"
+      "price": 104.4826,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE03": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 194.1368,
-      "date": "03-Oct-2026"
+      "price": 194.1683,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE11": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 194.1368,
-      "date": "03-Oct-2026"
+      "price": 194.1683,
+      "date": "04-Oct-2026"
     },
     "INF789F1AH75": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 106.2986,
-      "date": "03-Oct-2026"
+      "price": 106.3158,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD79": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 106.2986,
-      "date": "03-Oct-2026"
+      "price": 106.3158,
+      "date": "04-Oct-2026"
     },
     "INF789F1AG27": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 106.4149,
-      "date": "03-Oct-2026"
+      "price": 106.4318,
+      "date": "04-Oct-2026"
     },
     "INF789F1AG35": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 106.4149,
-      "date": "03-Oct-2026"
+      "price": 106.4318,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF44": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 419.8172,
-      "date": "03-Oct-2026"
+      "price": 419.8842,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE86": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 113.7521,
-      "date": "03-Oct-2026"
+      "price": 113.7703,
+      "date": "04-Oct-2026"
     },
     "INF789F1AE94": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 113.7521,
-      "date": "03-Oct-2026"
+      "price": 113.7703,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD12": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 203.9964,
-      "date": "03-Oct-2026"
+      "price": 204.029,
+      "date": "04-Oct-2026"
     },
     "INF789F1AD20": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 203.9964,
-      "date": "03-Oct-2026"
+      "price": 204.029,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF77": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 121.7821,
-      "date": "03-Oct-2026"
+      "price": 121.8015,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF02": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 168.1294,
-      "date": "03-Oct-2026"
+      "price": 168.1562,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF10": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 168.1294,
-      "date": "03-Oct-2026"
+      "price": 168.1562,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF28": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 115.816,
-      "date": "03-Oct-2026"
+      "price": 115.8345,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF36": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 115.816,
-      "date": "03-Oct-2026"
+      "price": 115.8345,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF85": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 462.639,
-      "date": "03-Oct-2026"
+      "price": 462.7129,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF51": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 142.1182,
-      "date": "03-Oct-2026"
+      "price": 142.1414,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF69": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 142.1182,
-      "date": "03-Oct-2026"
+      "price": 142.1414,
+      "date": "04-Oct-2026"
     },
     "INF789F1AF93": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 109.1371,
-      "date": "03-Oct-2026"
+      "price": 109.1546,
+      "date": "04-Oct-2026"
     },
     "INF789F1AG01": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 109.1371,
-      "date": "03-Oct-2026"
+      "price": 109.1546,
+      "date": "04-Oct-2026"
     },
     "INF789F1AG43": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 192.6179,
-      "date": "03-Oct-2026"
+      "price": 192.6487,
+      "date": "04-Oct-2026"
     },
     "INF789F1AG50": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 192.6179,
-      "date": "03-Oct-2026"
+      "price": 192.6487,
+      "date": "04-Oct-2026"
     },
     "INF789F1AH83": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 105.4473,
-      "date": "03-Oct-2026"
+      "price": 105.4642,
+      "date": "04-Oct-2026"
     },
     "INF789F1AG19": {
       "type": "MUTUAL_FUND",
       "name": "UTI - Liquid Fund",
-      "price": 105.4473,
-      "date": "03-Oct-2026"
+      "price": 105.4642,
+      "date": "04-Oct-2026"
     },
     "INF03VN01019": {
       "type": "MUTUAL_FUND",
@@ -77010,73 +77010,73 @@
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
       "price": 1000.5073,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF846K01N65": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1462.8942,
-      "date": "02-Oct-2026"
+      "price": 1463.3065,
+      "date": "04-Oct-2026"
     },
     "INF846K01N73": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.8173,
-      "date": "02-Oct-2026"
+      "price": 1002.0996,
+      "date": "04-Oct-2026"
     },
     "INF846K01N81": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.8173,
-      "date": "02-Oct-2026"
+      "price": 1002.0996,
+      "date": "04-Oct-2026"
     },
     "INF846K01N40": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.2596,
-      "date": "02-Oct-2026"
+      "price": 1001.5418,
+      "date": "04-Oct-2026"
     },
     "INF846K01N57": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.2596,
-      "date": "02-Oct-2026"
+      "price": 1001.5418,
+      "date": "04-Oct-2026"
     },
     "INF846K01O56": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
       "price": 1000.5032,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF846K01O23": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1457.2137,
-      "date": "02-Oct-2026"
+      "price": 1457.6215,
+      "date": "04-Oct-2026"
     },
     "INF846K01O31": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.8049,
-      "date": "02-Oct-2026"
+      "price": 1002.0853,
+      "date": "04-Oct-2026"
     },
     "INF846K01O49": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.8049,
-      "date": "02-Oct-2026"
+      "price": 1002.0853,
+      "date": "04-Oct-2026"
     },
     "INF846K01O07": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.2274,
-      "date": "02-Oct-2026"
+      "price": 1001.5077,
+      "date": "04-Oct-2026"
     },
     "INF846K01O15": {
       "type": "MUTUAL_FUND",
       "name": "Axis Overnight Fund",
-      "price": 1001.2274,
-      "date": "02-Oct-2026"
+      "price": 1001.5077,
+      "date": "04-Oct-2026"
     },
     "INF760K01JN3": {
       "type": "MUTUAL_FUND",
@@ -77106,25 +77106,25 @@
       "type": "MUTUAL_FUND",
       "name": "Choice Overnight Fund",
       "price": 100.1,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF2KCX01079": {
       "type": "MUTUAL_FUND",
       "name": "Choice Overnight Fund",
       "price": 100.1,
-      "date": "02-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF2KCX01087": {
       "type": "MUTUAL_FUND",
       "name": "Choice Overnight Fund",
-      "price": 101.2418,
-      "date": "02-Oct-2026"
+      "price": 101.269,
+      "date": "04-Oct-2026"
     },
     "INF2KCX01095": {
       "type": "MUTUAL_FUND",
       "name": "Choice Overnight Fund",
-      "price": 101.2151,
-      "date": "02-Oct-2026"
+      "price": 101.2417,
+      "date": "04-Oct-2026"
     },
     "INF666M01GM6": {
       "type": "MUTUAL_FUND",
@@ -77322,25 +77322,25 @@
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
       "price": 1000.5303,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF205KA1163": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1396.4498,
-      "date": "03-Oct-2026"
+      "price": 1396.6536,
+      "date": "04-Oct-2026"
     },
     "INF205KA1155": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1000.6167,
-      "date": "03-Oct-2026"
+      "price": 1000.7628,
+      "date": "04-Oct-2026"
     },
     "INF205KA1148": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1000.6167,
-      "date": "03-Oct-2026"
+      "price": 1000.7628,
+      "date": "04-Oct-2026"
     },
     "INF205KA1130": {
       "type": "MUTUAL_FUND",
@@ -77352,31 +77352,31 @@
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
       "price": 1000.1395,
-      "date": "03-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF205KA1114": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1391.1589,
-      "date": "03-Oct-2026"
+      "price": 1391.3597,
+      "date": "04-Oct-2026"
     },
     "INF205KA1106": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1001.5507,
-      "date": "03-Oct-2026"
+      "price": 1001.6949,
+      "date": "04-Oct-2026"
     },
     "INF205KA1098": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1001.5507,
-      "date": "03-Oct-2026"
+      "price": 1001.6949,
+      "date": "04-Oct-2026"
     },
     "INF205KA1080": {
       "type": "MUTUAL_FUND",
       "name": "Invesco India Overnight Fund",
-      "price": 1001.0019,
-      "date": "03-Oct-2026"
+      "price": 1001.1464,
+      "date": "04-Oct-2026"
     },
     "INF22M001036": {
       "type": "MUTUAL_FUND",
@@ -77466,61 +77466,61 @@
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
       "price": 1000.0243,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF769K01FG6": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1416.957,
-      "date": "01-Oct-2026"
+      "price": 1417.545,
+      "date": "04-Oct-2026"
     },
     "INF769K01FF8": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1000.9603,
-      "date": "01-Oct-2026"
+      "price": 1001.3758,
+      "date": "04-Oct-2026"
     },
     "INF769K01FI2": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1000.9603,
-      "date": "01-Oct-2026"
+      "price": 1001.3758,
+      "date": "04-Oct-2026"
     },
     "INF769K01FK8": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1000.1337,
-      "date": "01-Oct-2026"
+      "price": 1000.5489,
+      "date": "04-Oct-2026"
     },
     "INF769K01FL6": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
       "price": 1000.0067,
-      "date": "01-Oct-2026"
+      "date": "04-Oct-2026"
     },
     "INF769K01FE1": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1408.0499,
-      "date": "01-Oct-2026"
+      "price": 1408.6244,
+      "date": "04-Oct-2026"
     },
     "INF769K01FD3": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1000.9579,
-      "date": "01-Oct-2026"
+      "price": 1001.3664,
+      "date": "04-Oct-2026"
     },
     "INF769K01FH4": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1000.9579,
-      "date": "01-Oct-2026"
+      "price": 1001.3664,
+      "date": "04-Oct-2026"
     },
     "INF769K01FM4": {
       "type": "MUTUAL_FUND",
       "name": "Mirae Asset Overnight Fund",
-      "price": 1000.1489,
-      "date": "01-Oct-2026"
+      "price": 1000.5577,
+      "date": "04-Oct-2026"
     },
     "INF2ZSC01085": {
       "type": "MUTUAL_FUND",
@@ -77549,14 +77549,14 @@
     "INF0J8L01081": {
       "type": "MUTUAL_FUND",
       "name": "NJ Overnight Fund",
-      "price": 1278.577,
-      "date": "02-Oct-2026"
+      "price": 1278.9406,
+      "date": "04-Oct-2026"
     },
     "INF0J8L01073": {
       "type": "MUTUAL_FUND",
       "name": "NJ Overnight Fund",
-      "price": 1273.2593,
-      "date": "02-Oct-2026"
+      "price": 1273.6148,
+      "date": "04-Oct-2026"
     },
     "INF680P01513": {
       "type": "MUTUAL_FUND",
@@ -88745,74 +88745,74 @@
     "INF084M01EC8": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Emerging Opportunities Fund",
-      "price": 31.2006,
-      "date": "30-Sep-2026"
+      "price": 31.4659,
+      "date": "01-Oct-2026"
     },
     "INF084M01ED6": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Emerging Opportunities Fund",
-      "price": 31.2006,
-      "date": "30-Sep-2026"
+      "price": 31.4659,
+      "date": "01-Oct-2026"
     },
     "INF084M01EB0": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Emerging Opportunities Fund",
-      "price": 35.2769,
-      "date": "30-Sep-2026"
+      "price": 35.5769,
+      "date": "01-Oct-2026"
     },
     "INF084M01AU8": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Emerging Opportunities Fund",
-      "price": 33.4879,
-      "date": "30-Sep-2026"
+      "price": 33.7722,
+      "date": "01-Oct-2026"
     },
     "INF084M01AV6": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Emerging Opportunities Fund",
-      "price": 33.4879,
-      "date": "30-Sep-2026"
+      "price": 33.7722,
+      "date": "01-Oct-2026"
     },
     "INF084M01AT0": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Emerging Opportunities Fund",
-      "price": 33.4818,
-      "date": "30-Sep-2026"
+      "price": 33.7661,
+      "date": "01-Oct-2026"
     },
     "INF084M01EH7": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund",
-      "price": 47.2266,
-      "date": "30-Sep-2026"
+      "price": 47.3982,
+      "date": "01-Oct-2026"
     },
     "INF084M01AZ7": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund",
-      "price": 44.0857,
-      "date": "30-Sep-2026"
+      "price": 44.2451,
+      "date": "01-Oct-2026"
     },
     "INF084M01EI5": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund",
-      "price": 47.2507,
-      "date": "30-Sep-2026"
+      "price": 47.4224,
+      "date": "01-Oct-2026"
     },
     "INF084M01EJ3": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund",
-      "price": 47.2507,
-      "date": "30-Sep-2026"
+      "price": 47.4224,
+      "date": "01-Oct-2026"
     },
     "INF084M01BA8": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund",
-      "price": 44.113,
-      "date": "30-Sep-2026"
+      "price": 44.2726,
+      "date": "01-Oct-2026"
     },
     "INF084M01BB6": {
       "type": "MUTUAL_FUND",
       "name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund",
-      "price": 44.113,
-      "date": "30-Sep-2026"
+      "price": 44.2726,
+      "date": "01-Oct-2026"
     },
     "INF209KB16W7": {
       "type": "MUTUAL_FUND",
