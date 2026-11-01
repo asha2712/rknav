@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T02:59:47.748722+05:30",
+  "updated_at": "2026-11-02T03:28:42.935606+05:30",
   "total_instruments": 26360,
   "data": {
     "IN0020200104": {
@@ -23027,62 +23027,62 @@
     "INF200KA1YR4": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 16.9855,
-      "date": "31-Oct-2026"
+      "price": 16.9808,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YS2": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 16.0326,
-      "date": "31-Oct-2026"
+      "price": 16.0282,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YT0": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 16.0326,
-      "date": "31-Oct-2026"
+      "price": 16.0282,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YU8": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 16.5122,
-      "date": "31-Oct-2026"
+      "price": 16.5077,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YV6": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 16.5122,
-      "date": "31-Oct-2026"
+      "price": 16.5077,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YM5": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 16.3982,
-      "date": "31-Oct-2026"
+      "price": 16.3938,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YN3": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 15.4757,
-      "date": "31-Oct-2026"
+      "price": 15.4716,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YO1": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 15.4757,
-      "date": "31-Oct-2026"
+      "price": 15.4716,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YP8": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 15.9326,
-      "date": "31-Oct-2026"
+      "price": 15.9284,
+      "date": "30-Oct-2026"
     },
     "INF200KA1YQ6": {
       "type": "MUTUAL_FUND",
       "name": "SBI Corporate Bond Fund",
-      "price": 15.9326,
-      "date": "31-Oct-2026"
+      "price": 15.9284,
+      "date": "30-Oct-2026"
     },
     "INF903J01PD9": {
       "type": "MUTUAL_FUND",
@@ -27767,38 +27767,38 @@
     "INF173K01GU0": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",
-      "price": 2530.1379,
-      "date": "30-Oct-2026"
+      "price": 2531.1037,
+      "date": "01-Nov-2026"
     },
     "INF173K01DD3": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",
-      "price": 1041.8406,
-      "date": "30-Oct-2026"
+      "price": 1042.2256,
+      "date": "01-Nov-2026"
     },
     "INF173K01DE1": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",
-      "price": 1041.8406,
-      "date": "30-Oct-2026"
+      "price": 1042.2256,
+      "date": "01-Nov-2026"
     },
     "INF173K01GV8": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",
-      "price": 1045.5141,
-      "date": "30-Oct-2026"
+      "price": 1045.9132,
+      "date": "01-Nov-2026"
     },
     "INF173K01GW6": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",
-      "price": 1045.5141,
-      "date": "30-Oct-2026"
+      "price": 1045.9132,
+      "date": "01-Nov-2026"
     },
     "INF173K01DA9": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",
-      "price": 2494.0672,
-      "date": "30-Oct-2026"
+      "price": 2494.9889,
+      "date": "01-Nov-2026"
     },
     "INF903JA1JJ5": {
       "type": "MUTUAL_FUND",
@@ -31331,20 +31331,20 @@
     "INF903JA1HG5": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Overnight Fund",
-      "price": 1473.6971,
-      "date": "30-Oct-2026"
+      "price": 1474.1659,
+      "date": "01-Nov-2026"
     },
     "INF903JA1HH3": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Overnight Fund",
-      "price": 1012.0578,
-      "date": "30-Oct-2026"
+      "price": 1012.3797,
+      "date": "01-Nov-2026"
     },
     "INF903JA1HM3": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Overnight Fund",
-      "price": 1012.0578,
-      "date": "30-Oct-2026"
+      "price": 1012.3797,
+      "date": "01-Nov-2026"
     },
     "INF903JA1HK7": {
       "type": "MUTUAL_FUND",
@@ -31367,20 +31367,20 @@
     "INF903JA1GZ7": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Overnight Fund",
-      "price": 1462.8109,
-      "date": "30-Oct-2026"
+      "price": 1463.2683,
+      "date": "01-Nov-2026"
     },
     "INF903JA1HA8": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Overnight Fund",
-      "price": 1006.7186,
-      "date": "30-Oct-2026"
+      "price": 1007.0334,
+      "date": "01-Nov-2026"
     },
     "INF903JA1HF7": {
       "type": "MUTUAL_FUND",
       "name": "Sundaram Overnight Fund",
-      "price": 1006.7186,
-      "date": "30-Oct-2026"
+      "price": 1007.0334,
+      "date": "01-Nov-2026"
     },
     "INF903JA1HD2": {
       "type": "MUTUAL_FUND",
@@ -66521,37 +66521,37 @@
     "INF846K01CU0": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1034.2042,
+      "price": 1034.3359,
       "date": "30-Oct-2026"
     },
     "INF846K01CR6": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 2887.8469,
+      "price": 2888.2147,
       "date": "30-Oct-2026"
     },
     "INF846K01CT2": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1031.0041,
+      "price": 1031.1354,
       "date": "30-Oct-2026"
     },
     "INF846K01CS4": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1031.0041,
+      "price": 1031.1354,
       "date": "30-Oct-2026"
     },
     "INF846K01CV8": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1033.7804,
+      "price": 1033.912,
       "date": "30-Oct-2026"
     },
     "INF846K01CW6": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1033.7804,
+      "price": 1033.912,
       "date": "30-Oct-2026"
     },
     "INF846K01NG6": {
@@ -66563,37 +66563,37 @@
     "INF846K01CC8": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1033.586,
+      "price": 1033.7176,
       "date": "30-Oct-2026"
     },
     "INF846K01CB0": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 2790.0283,
+      "price": 2790.3836,
       "date": "30-Oct-2026"
     },
     "INF846K01CF1": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1030.6122,
+      "price": 1030.7435,
       "date": "30-Oct-2026"
     },
     "INF846K01CG9": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1030.6122,
+      "price": 1030.7435,
       "date": "30-Oct-2026"
     },
     "INF846K01CD6": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1033.1847,
+      "price": 1033.3162,
       "date": "30-Oct-2026"
     },
     "INF846K01CE4": {
       "type": "MUTUAL_FUND",
       "name": "Axis Banking and PSU Debt Fund",
-      "price": 1033.1847,
+      "price": 1033.3162,
       "date": "30-Oct-2026"
     },
     "INF0QA701649": {
@@ -72887,14 +72887,14 @@
     "INF22M001010": {
       "type": "MUTUAL_FUND",
       "name": "JioBlackRock Liquid Fund",
-      "price": 1085.5629,
-      "date": "31-Oct-2026"
+      "price": 1085.7689,
+      "date": "01-Nov-2026"
     },
     "INF22M001267": {
       "type": "MUTUAL_FUND",
       "name": "JioBlackRock Liquid Fund",
-      "price": 1011.2562,
-      "date": "31-Oct-2026"
+      "price": 1011.4445,
+      "date": "01-Nov-2026"
     },
     "INF192K01CN4": {
       "type": "MUTUAL_FUND",
@@ -77381,14 +77381,14 @@
     "INF22M001036": {
       "type": "MUTUAL_FUND",
       "name": "JioBlackRock Overnight Fund",
-      "price": 1071.7249,
-      "date": "31-Oct-2026"
+      "price": 1071.8975,
+      "date": "01-Nov-2026"
     },
     "INF22M001317": {
       "type": "MUTUAL_FUND",
       "name": "JioBlackRock Overnight Fund",
-      "price": 1009.6518,
-      "date": "31-Oct-2026"
+      "price": 1009.8121,
+      "date": "01-Nov-2026"
     },
     "INF192K01LY2": {
       "type": "MUTUAL_FUND",
@@ -88271,38 +88271,38 @@
     "INF200KB1AA9": {
       "type": "MUTUAL_FUND",
       "name": "SBI Dynamic Asset Allocation Active FoF",
-      "price": 10.0557,
-      "date": "31-Oct-2026"
+      "price": 10.055,
+      "date": "30-Oct-2026"
     },
     "INF200KB1977": {
       "type": "MUTUAL_FUND",
       "name": "SBI Dynamic Asset Allocation Active FoF",
-      "price": 9.9376,
-      "date": "31-Oct-2026"
+      "price": 9.9372,
+      "date": "30-Oct-2026"
     },
     "INF200KB1985": {
       "type": "MUTUAL_FUND",
       "name": "SBI Dynamic Asset Allocation Active FoF",
-      "price": 9.9376,
-      "date": "31-Oct-2026"
+      "price": 9.9372,
+      "date": "30-Oct-2026"
     },
     "INF200KB1993": {
       "type": "MUTUAL_FUND",
       "name": "SBI Dynamic Asset Allocation Active FoF",
-      "price": 9.9376,
-      "date": "31-Oct-2026"
+      "price": 9.9372,
+      "date": "30-Oct-2026"
     },
     "INF200KB1AB7": {
       "type": "MUTUAL_FUND",
       "name": "SBI Dynamic Asset Allocation Active FoF",
-      "price": 10.055,
-      "date": "31-Oct-2026"
+      "price": 10.0543,
+      "date": "30-Oct-2026"
     },
     "INF200KB1AC5": {
       "type": "MUTUAL_FUND",
       "name": "SBI Dynamic Asset Allocation Active FoF",
-      "price": 10.055,
-      "date": "31-Oct-2026"
+      "price": 10.0543,
+      "date": "30-Oct-2026"
     },
     "INF200K01RN3": {
       "type": "MUTUAL_FUND",
@@ -88343,38 +88343,38 @@
     "INF200KB1753": {
       "type": "MUTUAL_FUND",
       "name": "SBI Income Plus Arbitrage Active FOF",
-      "price": 10.8067,
-      "date": "31-Oct-2026"
+      "price": 10.8053,
+      "date": "30-Oct-2026"
     },
     "INF200KB1761": {
       "type": "MUTUAL_FUND",
       "name": "SBI Income Plus Arbitrage Active FOF",
-      "price": 10.8065,
-      "date": "31-Oct-2026"
+      "price": 10.805,
+      "date": "30-Oct-2026"
     },
     "INF200KB1779": {
       "type": "MUTUAL_FUND",
       "name": "SBI Income Plus Arbitrage Active FOF",
-      "price": 10.8065,
-      "date": "31-Oct-2026"
+      "price": 10.805,
+      "date": "30-Oct-2026"
     },
     "INF200KB1720": {
       "type": "MUTUAL_FUND",
       "name": "SBI Income Plus Arbitrage Active FOF",
-      "price": 10.7824,
-      "date": "31-Oct-2026"
+      "price": 10.781,
+      "date": "30-Oct-2026"
     },
     "INF200KB1738": {
       "type": "MUTUAL_FUND",
       "name": "SBI Income Plus Arbitrage Active FOF",
-      "price": 10.7825,
-      "date": "31-Oct-2026"
+      "price": 10.7811,
+      "date": "30-Oct-2026"
     },
     "INF200KB1746": {
       "type": "MUTUAL_FUND",
       "name": "SBI Income Plus Arbitrage Active FOF",
-      "price": 10.7825,
-      "date": "31-Oct-2026"
+      "price": 10.7811,
+      "date": "30-Oct-2026"
     },
     "INF200KB1225": {
       "type": "MUTUAL_FUND",
@@ -154241,14 +154241,14 @@
     "INF22M001127": {
       "type": "MUTUAL_FUND",
       "name": "JioBlackRock Liquid Fund",
-      "price": 1002.0875,
-      "date": "31-Oct-2026"
+      "price": 1002.2776,
+      "date": "01-Nov-2026"
     },
     "INF22M001135": {
       "type": "MUTUAL_FUND",
       "name": "JioBlackRock Liquid Fund",
-      "price": 1002.0875,
-      "date": "31-Oct-2026"
+      "price": 1002.2776,
+      "date": "01-Nov-2026"
     },
     "IN002025Z450": {
       "type": "EQUITY",
